@@ -20,7 +20,7 @@ My name is Demis, I'm a Quality Engineer Lead, Brazilian, and living in Matosinh
 I'm the founder of Bee Lab Academy and I like to share knowledge around. I have over 14 years of experience with Software Quality and I'm here to share what I've experienced in my career.
 
 ##
-I have the opportunity to automate tests with the following languages:
+I have the opportunity to automate tests with the following languages and frameworks:
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
