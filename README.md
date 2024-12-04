@@ -9,7 +9,7 @@ Faaaaala aí, tudo bem? 👊🏻
 <br>
 Meu nome é Demis, sou Quality Engineer Lead, brasileiro e morando em Matosinhos em Portugal.
 <br>
-Sou fundado da Bee Lab Academy e gosto de transmitir conhecimento por aí. Tenho mais de 14 anos de experiência com Qualidade de Software e estou aqui para compartilhar o que tenho experienciado da minha carreira.
+Sou fundador da Bee Lab Academy e gosto de transmitir conhecimento por aí. Tenho mais de 14 anos de experiência com Qualidade de Software e estou aqui para compartilhar o que tenho experienciado da minha carreira.
 
 us
 <br>
